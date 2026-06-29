@@ -1,3 +1,5 @@
+[![fastapi-trilha-estudo](https://raw.githubusercontent.com/tomaziu/fastapi-trilha-estudo/main/fastapi-trilha-estudo.png)](https://github.com/tomaziu/fastapi-trilha-estudo)
+
 # Trilha de Estudo — FastAPI 🚀
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115.0-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
