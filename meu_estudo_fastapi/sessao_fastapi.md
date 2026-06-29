@@ -65,7 +65,7 @@ Se eu não disser o tema, escolha o próximo passo com base no progresso abaixo.
 
 ### Checkpoints
 
-- [ ] Fundamentos: o que é FastAPI, como funciona, primeira rota
+- [x] Fundamentos: o que é FastAPI, como funciona, primeira rota
 - [ ] Rotas e métodos HTTP (GET, POST, PUT, DELETE)
 - [ ] Parâmetros: path, query e body
 - [ ] Pydantic: validação e schemas
@@ -80,7 +80,15 @@ Se eu não disser o tema, escolha o próximo passo com base no progresso abaixo.
 
 ### Histórico de sessões
 
-_(nenhuma sessão registrada ainda)_
+**Sessão 01 — 29/06/2026**
+- Enviei o projeto para o GitHub (repo: fastapi-trilha-estudo)
+- Criei README.md com banner, badges, estrutura e tabela de progresso
+- Criei requirements.txt com dependências essenciais
+- Completei o módulo **01 - Fundamentos**:
+  - Exercício 1: rota GET `/nome` retornando {"nome": "Thomaz"}
+  - Exercício 2: rotas GET `/usuarios` e POST no mesmo app
+  - Exercício 3: exploração do Swagger (`/docs`)
+- **Próximo módulo:** 02 - Rotas HTTP
 
 ---
 
