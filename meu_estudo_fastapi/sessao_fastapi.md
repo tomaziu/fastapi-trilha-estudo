@@ -66,7 +66,7 @@ Se eu não disser o tema, escolha o próximo passo com base no progresso abaixo.
 ### Checkpoints
 
 - [x] Fundamentos: o que é FastAPI, como funciona, primeira rota
-- [ ] Rotas e métodos HTTP (GET, POST, PUT, DELETE)
+- [x] Rotas e métodos HTTP (GET, POST, PUT, DELETE)
 - [ ] Parâmetros: path, query e body
 - [ ] Pydantic: validação e schemas
 - [ ] Organização: routers e estrutura de pastas
@@ -89,6 +89,14 @@ Se eu não disser o tema, escolha o próximo passo com base no progresso abaixo.
   - Exercício 2: rotas GET `/usuarios` e POST no mesmo app
   - Exercício 3: exploração do Swagger (`/docs`)
 - **Próximo módulo:** 02 - Rotas HTTP
+
+**Sessão 02 — 01/07/2026**
+- Completei o módulo **02 - Rotas e métodos HTTP**:
+  - Aprendi os 5 métodos HTTP (GET, POST, PUT, PATCH, DELETE)
+  - Exercício: CRUD completo de produtos (`exercicios_rotas.py`)
+  - Corrigi: indentação no PUT, parâmetros nomeados, validação de ID
+  - Nota: validação por range pode falhar após DELETEs — será resolvido no módulo 04 (Pydantic)
+- **Próximo módulo:** 03 - Parâmetros (path, query, body)
 
 ---
 
